@@ -138,5 +138,5 @@ Daftar Nilai
 Program selesai.
 ````
 # Flowchart
- ![Flowchart](/flowchart(1).png)
+ ![Flowchart](/flowchart.png)
  # Penjelasan
